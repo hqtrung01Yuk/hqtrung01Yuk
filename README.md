@@ -4,7 +4,7 @@
 
 ### Giới thiệu bản thân
 
-Mình là một sinh viên mới tốt nghiệp, có niềm đam mê mạnh mẽ với kỹ thuật phần mềm. Hiện tại, mình đang tìm kiếm các cơ hội việc làm để mở rộng kiến thức về các công nghệ mới. Mình chủ yếu làm việc với **Java** và **C#**, nhưng luôn sẵn sàng học hỏi và thích nghi với các công cụ và framework mới để phát triển sự nghiệp lâu dài.
+Mình là một sinh viên mới tốt nghiệp, có niềm đam mê mạnh mẽ với kỹ thuật phần mềm. Hiện tại, mình đang tìm kiếm các cơ hội việc làm để mở rộng kiến thức về các công nghệ mới. Công nghệ chủ yếu làm việc với **Java** và **C#**, nhưng luôn sẵn sàng học hỏi và thích nghi với các công cụ và framework mới để phát triển sự nghiệp lâu dài.
 
 ### Kỹ năng công nghệ (Tech Stack)
 
