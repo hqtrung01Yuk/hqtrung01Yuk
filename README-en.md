@@ -25,12 +25,10 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
-### 
-
 ### Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=dracula&layout=compact&langs_count=6&exclude=html,css&border_color=2e4058)](https://github.com/hqtrung01Yuk)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight)](https://github.com/hqtrung01Yuk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=tokyonight&layout=compact&langs_count=6&exclude=html,css\&border_color=2e4058)](https://github.com/hqtrung01Yuk)
 
 ### Carrer Goals
 
