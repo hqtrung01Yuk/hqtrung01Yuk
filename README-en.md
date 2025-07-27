@@ -36,8 +36,9 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 ### Carrer Goals
 
 * **Short-term:**
-  * Become a **Fullstack Developer** (Java Spring + React).
+  * Become a **Fullstack Developer**.
   * Learn **`CI/CD`** GitHub Actions, Docker, Kubernetes.
+  * Introduction to **`Linux`** and the **`command line`**.
 
 * **Long-term**:  
   * **Language Goals**
