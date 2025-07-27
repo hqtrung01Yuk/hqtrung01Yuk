@@ -37,8 +37,9 @@ Mình là một sinh viên mới tốt nghiệp, có niềm đam mê mạnh mẽ
 
 * **📌 Ngắn hạn:**
 
-  * Trở thành **Lập trình viên Fullstack** (Java Spring + React).
+  * Trở thành **Lập trình viên Fullstack**.
   * Học và áp dụng **CI/CD** với GitHub Actions, Docker, Kubernetes.
+  * Làm quen với Linux và môi trường dòng lệnh.
 
 * **🔮 Dài hạn:**
   * **Mục tiêu về ngôn ngữ lập trình:**
