@@ -39,7 +39,7 @@ Mình là một sinh viên mới tốt nghiệp, có niềm đam mê mạnh mẽ
 
   * Trở thành **Lập trình viên Fullstack**.
   * Học và áp dụng **CI/CD** với GitHub Actions, Docker, Kubernetes.
-  * Làm quen với Linux và môi trường dòng lệnh.
+  * Làm quen với **`Linux`** và môi trường **`dòng lệnh`**.
 
 * **🔮 Dài hạn:**
   * **Mục tiêu về ngôn ngữ lập trình:**
