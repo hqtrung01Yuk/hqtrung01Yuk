@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Huỳnh Quang Trung
 
+[![Tiếng anh ở đây](https://img.shields.io/badge/Vietnamese_is_here!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40)](./README.md)
+
 ### About ME
 
-I'm a recent graduate with a strong interest in software engineering. I'm currently seeking job opportunities where I can expand my knowledge of emerging technologies. My main focus is on Java and C#, but I'm eager to learn and adapt to new tools and frameworks to grow in my career.
+I'm a recent graduate with a strong interest in software engineering. I'm currently seeking job opportunities where I can expand my knowledge of emerging technologies. My main focus is on **Java** and **C#**, but I'm eager to learn and adapt to new tools and frameworks to grow in my career.
 
 ### Tech Stack
 
@@ -39,5 +41,5 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 
 * **Long-term**:  
   * **Language Goals**
-    * **Python**: AI/ML (TensorFlow, PyTorch), Automation ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-    * **C++**: High-performance systems, Game Dev, Embedded ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+    * **Python**: AI/ML (TensorFlow, PyTorch) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+    * **C++**: High-performance systems ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
