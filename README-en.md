@@ -16,7 +16,7 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-#### Libraries/Frameworks
+#### Libraries / Frameworks
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -28,6 +28,7 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 ### Github Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight)](https://github.com/hqtrung01Yuk)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=450)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=tokyonight&layout=compact&langs_count=6&exclude=html,css\&border_color=2e4058)](https://github.com/hqtrung01Yuk)
 
 ### Carrer Goals
