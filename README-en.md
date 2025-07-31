@@ -32,15 +32,3 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight)](https://github.com/hqtrung01Yuk)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=450)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=tokyonight&layout=compact&langs_count=6&exclude=html,css\&border_color=2e4058)](https://github.com/hqtrung01Yuk)
-
-### Carrer Goals
-
-* **Short-term:**
-  * Become a **Fullstack Developer**.
-  * Learn **`CI/CD`** GitHub Actions, Docker, Kubernetes.
-  * Introduction to **`Linux`** and the **`command line`**.
-
-* **Long-term**:  
-  * **Language Goals**
-    * **Python**: AI/ML (TensorFlow, PyTorch) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-    * **C++**: High-performance systems ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
