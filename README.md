@@ -32,16 +32,3 @@ Mình là một sinh viên mới tốt nghiệp, có niềm đam mê mạnh mẽ
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight&locale=vi)](https://github.com/hqtrung01Yuk)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=450&locale=vi)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=tokyonight&layout=compact&langs_count=6&exclude=html,css\&border_color=2e4058&locale=vi)](https://github.com/hqtrung01Yuk)
-
-### Mục tiêu nghề nghiệp
-
-* **📌 Ngắn hạn:**
-
-  * Trở thành **Lập trình viên Fullstack**.
-  * Học và áp dụng **CI/CD** với GitHub Actions, Docker, Kubernetes.
-  * Làm quen với **`Linux`** và môi trường **`dòng lệnh`**.
-
-* **🔮 Dài hạn:**
-  * **Mục tiêu về ngôn ngữ lập trình:**
-    * **Python**: Ứng dụng trong Trí tuệ nhân tạo/Machine Learning (TensorFlow, PyTorch) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-    * **C++**: Phát triển hệ thống hiệu năng cao ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B\&logoColor=white)
