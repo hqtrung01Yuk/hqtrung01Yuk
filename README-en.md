@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Huỳnh Quang Trung
 
-[![Tiếng anh ở đây](https://img.shields.io/badge/Vietnamese_is_here!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40&label=Tiếng+việt+ở+đây!&labelColor=3178C6)](./README.md)
+[![Tiếng anh ở đây](https://img.shields.io/badge/Vietnamese_here!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40&label=Tiếng+việt+ở+đây!&labelColor=3178C6)](./README.md)
 
 ### About ME
 
