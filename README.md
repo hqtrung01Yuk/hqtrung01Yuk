@@ -1,6 +1,6 @@
 ## 👋 Xin chào, mình là **Huỳnh Quang Trung**
 
-[![Tiếng anh ở đây](https://img.shields.io/badge/Tiếng_anh_ở_đây!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40&label=English+is+here!&labelColor=3178C6)](./README-en.md)
+[![Tiếng anh ở đây](https://img.shields.io/badge/Tiếng_anh_ở_đây!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40&label=English+here!&labelColor=3178C6)](./README-en.md)
 
 ### Giới thiệu bản thân
 
