@@ -30,6 +30,6 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 ### Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hqtrung01Yuk&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=450)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=450)](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=450)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight)](https://github.com/hqtrung01Yuk)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hqtrung01Yuk&theme=tokyonight)
