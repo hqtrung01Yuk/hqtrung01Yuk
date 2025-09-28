@@ -30,5 +30,4 @@ Mình là một sinh viên mới tốt nghiệp, có niềm đam mê mạnh mẽ
 ### Thống kê GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight&locale=vi)](https://github.com/hqtrung01Yuk)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&locale=vi)](https://streak-stats.demolab.com?user=hqtrung01Yuk&theme=catppuccin-macchiato&hide_border=true&locale=vi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=tokyonight&layout=compact&langs_count=6&exclude=html,css&border_color=2e4058&locale=vi)](https://github.com/hqtrung01Yuk)
