@@ -29,5 +29,5 @@ I'm a recent graduate with a strong interest in software engineering. I'm curren
 
 ### Github Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight)](https://github.com/hqtrung01Yuk)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hqtrung01Yuk&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=github&theme=tokyonight&rank_icon=github)](https://github.com/hqtrung01Yuk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=tokyonight&layout=compact&langs_count=6&exclude=html,css&border_color=2e4058)](https://github.com/hqtrung01Yuk)
