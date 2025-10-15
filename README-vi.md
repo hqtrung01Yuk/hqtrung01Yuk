@@ -29,5 +29,5 @@ Mình là một sinh viên mới tốt nghiệp, có niềm đam mê mạnh mẽ
 
 ### Thống kê GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight&locale=vi)](https://github.com/hqtrung01Yuk)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hqtrung01Yuk&show_icons=true&theme=tokyonight&locale=vi&line_height=20&rank_icon=github)](https://github.com/hqtrung01Yuk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtrung01Yuk&theme=tokyonight&layout=compact&langs_count=6&exclude=html,css&border_color=2e4058&locale=vi)](https://github.com/hqtrung01Yuk)
