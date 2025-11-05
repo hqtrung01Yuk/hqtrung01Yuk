@@ -1,5 +1,7 @@
-<h2 align="left">Hi there 👋 I'm Huỳnh Quang Trung</h2>
-
+<div align="center" style="display: flex; gap: 30px;">
+  <h2 align="left" style="justify-content: center">Hi there, 👋 I'm Huỳnh Quang Trung</h2>
+  <img height="120" src="./asset/ab83h2.gif"  />
+</div>
 <!-- <a href="./README-vi.md" target="_blank">
   <img
     src="https://img.shields.io/badge/Tiếng_Việt_ở_đây!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40&label=Vietnamese+here!&labelColor=3178C6"
