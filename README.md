@@ -14,11 +14,11 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<p align="left">I'm a recent graduate with a strong interest in software engineering. I'm currently seeking job opportunities where I can expand my knowledge of emerging technologies. My main focus is on <strong>Java</strong> và <strong>C#</strong>, but I'm eager to learn and adapt to new tools and frameworks to grow in my career.</p>
 
 ###
 
-<p align="left">I'm a recent graduate with a strong interest in software engineering. I'm currently seeking job opportunities where I can expand my knowledge of emerging technologies. My main focus is on <strong>Java</strong> và <strong>C#</strong>, but I'm eager to learn and adapt to new tools and frameworks to grow in my career.</p>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
