@@ -1,4 +1,4 @@
-<h2 align="left">Xin chào, 👋 mình là **Huỳnh Quang Trung**</h2>
+<h2 align="left">Xin chào, 👋 mình là Huỳnh Quang Trung</h2>
 
 ###
 
