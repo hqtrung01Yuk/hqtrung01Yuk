@@ -2,13 +2,13 @@
 
 ###
 
-<a href="./README.md" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Tiếng_Anh_ở_đây!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40&label=English+here!&labelColor=3178C6" 
-    alt="Tiếng anh ở đây" 
+<!-- <a href="./README.md" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Tiếng_Anh_ở_đây!-bcdfff?style=for-the-badge&stype=for-the-badge&logoSize=40&label=English+here!&labelColor=3178C6"
+    alt="Tiếng anh ở đây"
     style="border: none; cursor: pointer;"
   />
-</a>
+</a> -->
 
 ###
 
