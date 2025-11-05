@@ -1,6 +1,6 @@
-<div align="center" justify="center" style="display:flex; gap:30px;">
-  <h2 align="center" style="justify-content: center">Xin chào, 👋 mình là Huỳnh Quang Trung</h2>
-  <img height="200" src="./asset/ab83h2.gif"  />
+<div style="display: inline-flex; align-items: center; gap: 30px;">
+  <h2 style="margin: 0;">Xin chào, 👋 mình là Huỳnh Quang Trung</h2>
+  <img height="200" src="./asset/ab83h2.gif" />
 </div>
 
 <!-- <a href="./README.md" target="_blank">
